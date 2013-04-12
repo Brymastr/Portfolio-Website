@@ -29,6 +29,7 @@ body {
 }
 
 .item {
+	position:relative;
 	float:left;
     display:block;
     padding-left:30px;
