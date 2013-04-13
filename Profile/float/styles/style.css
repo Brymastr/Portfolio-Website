@@ -3,7 +3,7 @@
 body {
 	font-family: "Lucida Grande", Verdana, sans-serif;
 	background-color: #cccccc;
-	color: #dddddd;
+	color: #aaaaaa;
 	font-style: italic;
 }
 
@@ -17,6 +17,7 @@ body {
 	float: left;
 	width: 100%;
 	padding-left: 15px;
+	margin-bottom: 15px;
 }
 
 .title_name {
@@ -56,6 +57,10 @@ body {
 	display: block;
 	padding-left: 15px;
 	padding-right: 15px;
+}
+
+.item_plain {
+	float:left;
 }
 
 .about {
@@ -113,9 +118,13 @@ body {
 	margin-right: auto;
 }
 
+h2 {
+	
+}
+
 h3 {
 	text-align: right;
-	color: #dddddd;
+	color: #aaaaaa;
 	font-weight: 300;
 	padding: 3px 8px 3px 0px;
 }
