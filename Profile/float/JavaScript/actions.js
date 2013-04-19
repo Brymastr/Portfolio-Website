@@ -1,5 +1,6 @@
 $(document).ready(function() {
-	mouseOver(".item", 30, .8);
+	mouseOver(".item", 20, .8);
+	mouseOver(".item_wide", 20, .8)
 
 });
 
@@ -10,7 +11,7 @@ function mouseOver(id, time, multiplier) {
 
 		
 		timer = (timer*multiplier + time);
-		$(this).animate({top: "-10px"}, timer);
+		$(this).animate({top: "-8px"}, timer);
 	});
 	$(bounce_element).mouseleave(function(i) {
 
@@ -19,11 +20,3 @@ function mouseOver(id, time, multiplier) {
 	});
 
 }
-
-//function mouseOver(id) {
-//document.getElementById(id).className = id + '_2';
-//}
-
-//function mouseOut(id) {
-//document.getElementById(id).className = id;
-//}

@@ -14,35 +14,36 @@
 		<!-- CONTENT -->
 		<div id="content">
 			<div class="item">
-				<div id="about" class="about" onclick="location.href='about.php'">
+				<div class="about" onclick="location.href='about.php'">
 					<h3>ABOUT</h3>
-					<p>Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah
-						blah Blah blah Blah blah Blah blah Blah blah Blah blah</p>
+					<p>Hello, my name is Brycen Dorsay and I am into website and mobile application development. I am 19 years old and I am taking Computer Systems Technology at British Columbia Institute of Technology. Welcome to portfolio page full of my past and future projects and ideas.</p>
 				</div>
 			</div>
 			<div class="item">
-				<div id="contact" class="contact" onclick="location.href='#'">
+				<div class="contact" onclick="location.href='#'">
 					<h3>CONTACT</h3>
-					<p>Blah blah Blah blah Blah blah</p>
+					<p><span class="contact_left">Email:</span><span class="contact_right">dorsay@live.ca</span><br>
+					<span class="contact_left">Phone:</span><span class="contact_right">1 (250) 937-7361</span><br />
+					<span class="contact_left">Address:</span><span class="contact_right">5211 Grimmer Street, Burnaby BC</span></p>
 				</div>
 			</div>
 			<div class="break"></div>
 			<div class="item">
-				<div id="projects" class="projects" onclick="location.href='#'">
+				<div class="projects" onclick="location.href='projects.php'">
 					<img src="images/android.png" class="images_tabs" alt="Projects"
 						width="240" height="280" />
 					<h3>PROJECTS</h3>
 				</div>
 			</div>
 			<div class="item">
-				<div id="ideas" class="ideas" onclick="location.href='#'">
+				<div class="ideas" onclick="location.href='#'">
 					<img src="images/android.png" class="images_tabs" alt="Ideas"
 						width="240" height="280" />
 					<h3>IDEAS</h3>
 				</div>
 			</div>
 			<div class="item">
-				<div id="accomp" class="accomp" onclick="location.href='#'">
+				<div class="accomp" onclick="location.href='#'">
 					<img src="images/android.png" class="images_tabs"
 						alt="Accomplishments" width="240" height="280" />
 					<h3>ACCOMPLISHMENTS</h3>

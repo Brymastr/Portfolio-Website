@@ -61,11 +61,12 @@ body {
 
 .item_plain {
 	float:left;
+	padding-left:15px;
+	padding-right:15px;
 }
 
 .about {
 	width: 560px;
-	display: block;
 	background-color: white;
 	border-radius: 8px;
 	box-shadow: 8px 8px 8px #888888;
@@ -99,10 +100,16 @@ body {
 	box-shadow: 8px 8px 8px #888888;
 }
 
-.space {
-	float: left;
-	width: 30px;
-	height: 10px;
+.content_block {
+	width: 960px;
+	background-color:white;
+	border-radius:8px;
+	box-shadow: 8px 8px 8px #888888;
+}
+
+.inner_image {
+    align:right;
+    display:inline;
 }
 
 .break {
@@ -119,7 +126,10 @@ body {
 }
 
 h2 {
-	
+	text-align:left;
+	color:#aaaaaa;
+	font-weight:300;
+	padding: 3px 0 3px 8px;
 }
 
 h3 {
@@ -132,3 +142,22 @@ h3 {
 p {
 	padding: 5px;
 }
+
+.contact_left {
+	
+}
+
+.contact_right {
+    align:right;
+}
+
+
+
+
+
+
+
+
+
+
+
