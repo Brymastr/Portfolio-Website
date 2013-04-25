@@ -4,23 +4,23 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<title>Dorsay Creations</title>
 	<link href="styles/style.css" rel="stylesheet" type="text/css" />
-	<script type="text/javascript" src="JavaScript/jquery.js"></script>
-	<script type="text/javascript" src="JavaScript/actions.js"></script>
+	<script type="text/javascript" src="js/jquery.js"></script>
+	<script type="text/javascript" src="js/actions.js"></script>
 </head>
 <body>
 	<div id="container">
 		<!-- TITLE -->
-		<?php include 'title.php'; ?>
+		<?php include 'header.php'; ?>
 		<!-- CONTENT -->
 		<div id="content">
 			<div class="item">
-				<div class="about" onclick="location.href='about.php'">
+				<div id="about" onclick="location.href('about.php')" class="transition">
 					<h3>ABOUT</h3>
-					<p>Hello, my name is Brycen Dorsay and I am into website and mobile application development. I am 19 years old and I am taking Computer Systems Technology at British Columbia Institute of Technology. Welcome to portfolio page full of my past and future projects and ideas.</p>
+					<p>Hello, my name is Brycen Dorsay and I am into website and mobile application development. I am 19 years old and I am taking Computer Systems Technology at British Columbia Institute of Technology. Welcome to my portfolio page full of my past and future creations.</p>
 				</div>
 			</div>
 			<div class="item">
-				<div class="contact" onclick="location.href='#'">
+				<div id="contact" onclick="location.href='#'" class="transition">
 					<h3>CONTACT</h3>
 					<p><span class="contact_left">Email:</span><span class="contact_right">dorsay@live.ca</span><br>
 					<span class="contact_left">Phone:</span><span class="contact_right">1 (250) 937-7361</span><br />
@@ -29,21 +29,21 @@
 			</div>
 			<div class="break"></div>
 			<div class="item">
-				<div class="projects" onclick="location.href='projects.php'">
+				<div id="projects" onclick="location.href('projects.php')" class="transition">
 					<img src="images/android.png" class="images_tabs" alt="Projects"
 						width="240" height="280" />
 					<h3>PROJECTS</h3>
 				</div>
 			</div>
 			<div class="item">
-				<div class="ideas" onclick="location.href='#'">
+				<div id="ideas" onclick="location.href='#'" class="transition">
 					<img src="images/android.png" class="images_tabs" alt="Ideas"
 						width="240" height="280" />
 					<h3>IDEAS</h3>
 				</div>
 			</div>
 			<div class="item">
-				<div class="accomp" onclick="location.href='#'">
+				<div id="accomp" onclick="location.href='#'" class="transition">
 					<img src="images/android.png" class="images_tabs"
 						alt="Accomplishments" width="240" height="280" />
 					<h3>ACCOMPLISHMENTS</h3>

@@ -20,7 +20,7 @@ body {
 	margin-bottom: 15px;
 }
 
-.title_name {
+#title_name {
 	float: left;
 }
 
@@ -55,8 +55,8 @@ body {
 	position: relative;
 	float: left;
 	display: block;
-	padding-left: 15px;
-	padding-right: 15px;
+	margin-left: 15px;
+	margin-right: 15px;
 }
 
 .item_plain {
@@ -65,35 +65,35 @@ body {
 	padding-right:15px;
 }
 
-.about {
+#about {
 	width: 560px;
 	background-color: white;
 	border-radius: 8px;
 	box-shadow: 8px 8px 8px #888888;
 }
 
-.contact {
+#contact {
 	width: 370px;
 	background-color: white;
 	border-radius: 8px;
 	box-shadow: 8px 8px 8px #888888;
 }
 
-.projects {
+#projects {
 	width: 300px;
 	background-color: white;
 	border-radius: 8px;
 	box-shadow: 8px 8px 8px #888888;
 }
 
-.ideas {
+#ideas {
 	width: 300px;
 	background-color: white;
 	border-radius: 8px;
 	box-shadow: 8px 8px 8px #888888;
 }
 
-.accomp {
+#accomp {
 	width: 300px;
 	background-color: white;
 	border-radius: 8px;

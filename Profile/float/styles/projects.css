@@ -3,15 +3,17 @@
 .item_wide {
 	cursor:pointer;
     position: relative;
-    float: left;
-    display: block;
-    padding-left: 15px;
-    padding-right: 15px;
 }
 
 .interior {
-	width:960px;
-    background-color: white;
-    border-radius: 8px;
+	margin:20px 15px 20px 15px;
+    width:960px;
+}
+
+table {
+	width:100%;
+	padding-top:-30px;
+	background-color: white;
+	border-radius: 8px;
     box-shadow: 8px 8px 8px #888888;
 }
