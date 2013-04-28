@@ -1,4 +1,4 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 slide_transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -14,13 +14,13 @@
 		<!-- CONTENT -->
 		<div id="content">
 			<div class="item">
-				<div id="about" onclick="location.href('about.php')" class="transition">
+				<div id="about" onclick="location.href('about.php')" class="slide_transition">
 					<h3>ABOUT</h3>
 					<p>Hello, my name is Brycen Dorsay and I am into website and mobile application development. I am 19 years old and I am taking Computer Systems Technology at British Columbia Institute of Technology. Welcome to my portfolio page full of my past and future creations.</p>
 				</div>
 			</div>
 			<div class="item">
-				<div id="contact" onclick="location.href='#'" class="transition">
+				<div id="contact" onclick="location.href='#'" class="slide_transition">
 					<h3>CONTACT</h3>
 					<p><span class="contact_left">Email:</span><span class="contact_right">dorsay@live.ca</span><br>
 					<span class="contact_left">Phone:</span><span class="contact_right">1 (250) 937-7361</span><br />
@@ -29,21 +29,21 @@
 			</div>
 			<div class="break"></div>
 			<div class="item">
-				<div id="projects" onclick="location.href('projects.php')" class="transition">
+				<div id="projects" onclick="location.href('projects.php')" class="slide_transition">
 					<img src="images/android.png" class="images_tabs" alt="Projects"
 						width="240" height="280" />
 					<h3>PROJECTS</h3>
 				</div>
 			</div>
 			<div class="item">
-				<div id="ideas" onclick="location.href='#'" class="transition">
+				<div id="ideas" onclick="location.href='#'" class="slide_transition">
 					<img src="images/android.png" class="images_tabs" alt="Ideas"
 						width="240" height="280" />
 					<h3>IDEAS</h3>
 				</div>
 			</div>
 			<div class="item">
-				<div id="accomp" onclick="location.href='#'" class="transition">
+				<div id="accomp" onclick="location.href='#'" class="slide_transition">
 					<img src="images/android.png" class="images_tabs"
 						alt="Accomplishments" width="240" height="280" />
 					<h3>ACCOMPLISHMENTS</h3>

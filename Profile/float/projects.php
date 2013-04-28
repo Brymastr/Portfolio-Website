@@ -17,31 +17,57 @@
 			<!-- DORSAY DESIGN -->
 			<div class="item_wide">
 				<div class="interior">
-				<table>
-					<tr>
-					<td width="800px">
-					<h2>Dorsay Design</h2>
-					<p>A wordpress website that I designed and built for my mother's interior design company.</p>
-					</td>
-					<td width="160px"><img src="images/android.png" width="100" height="110" align="right"/></td>
-					</tr>
-				</table>
-					
+					<table>
+						<tr>
+						<td width="800px">
+						<h2>Dorsay Design</h2>
+						<p>A wordpress website that I designed and built for my mother's interior design company.</p>
+						</td>
+						<td width="160px"><img src="images/android.png" width="100" height="110" align="right"/></td>
+						</tr>
+					</table>
 				</div>
 			</div>
 			<!-- DECIMAL CONVERTER -->
 			<div class="item_wide">
 				<div class="interior">
-				<table>
-					<tr>
-					<td width="800px">
-					<h2>Decimal Converter</h2>
-					<p>An android application that converts numbers in base 10 to numbers in other bases and representations.</p>
-					</td>
-					<td width="160px"><img src="images/android.png" width="100" height="110" align="right"/></td>
-					</tr>
-				</table>
-					
+					<table>
+						<tr>
+						<td width="800px">
+						<h2>Decimal Converter</h2>
+						<p>An android application that converts numbers in base 10 to numbers in other bases and representations.</p>
+						</td>
+						<td width="160px"><img src="images/android.png" width="100" height="110" align="right"/></td>
+						</tr>
+					</table>					
+				</div>
+			</div>
+			<!-- DECIMAL CONVERTER -->
+			<div class="item_wide">
+				<div class="interior">
+					<table>
+						<tr>
+						<td width="800px">
+						<h2>Decimal Converter</h2>
+						<p>An android application that converts numbers in base 10 to numbers in other bases and representations.</p>
+						</td>
+						<td width="160px"><img src="images/android.png" width="100" height="110" align="right"/></td>
+						</tr>
+					</table>					
+				</div>
+			</div>
+			<!-- DECIMAL CONVERTER -->
+			<div class="item_wide">
+				<div class="interior">
+					<table>
+						<tr>
+						<td width="800px">
+						<h2>Decimal Converter</h2>
+						<p>An android application that converts numbers in base 10 to numbers in other bases and representations.</p>
+						</td>
+						<td width="160px"><img src="images/android.png" width="100" height="110" align="right"/></td>
+						</tr>
+					</table>					
 				</div>
 			</div>
 		</div>
