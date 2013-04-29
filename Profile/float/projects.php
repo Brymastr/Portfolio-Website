@@ -1,15 +1,4 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
-<html>
-<head>
-	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	<title>Dorsay Creations</title>
-	<link href="styles/style.css" rel="stylesheet" type="text/css" />
-	<link href="styles/projects.css" rel="stylesheet" type="text/css" />
-	<script type="text/javascript" src="js/jquery.js"></script>
-	<script type="text/javascript" src="js/actions.js"></script>
-</head>
-<body>
-	<div id="container">
+
 		<!-- TITLE -->
 		<?php include 'header.php'; ?>
 		<!-- CONTENT -->
@@ -19,11 +8,11 @@
 				<div class="interior">
 					<table>
 						<tr>
-						<td width="800px">
+						<td class="left_column">
 						<h2>Dorsay Design</h2>
 						<p>A wordpress website that I designed and built for my mother's interior design company.</p>
 						</td>
-						<td width="160px"><img src="images/android.png" width="100" height="110" align="right"/></td>
+						<td class="right_column"><img src="js/holder.js/260x135/gray" align="right"/></td>
 						</tr>
 					</table>
 				</div>
@@ -33,11 +22,11 @@
 				<div class="interior">
 					<table>
 						<tr>
-						<td width="800px">
+						<td class="left_column">
 						<h2>Decimal Converter</h2>
 						<p>An android application that converts numbers in base 10 to numbers in other bases and representations.</p>
 						</td>
-						<td width="160px"><img src="images/android.png" width="100" height="110" align="right"/></td>
+						<td class="right_column"><img src="js/holder.js/260x135/industrial" align="right"/></td>
 						</tr>
 					</table>					
 				</div>
@@ -47,11 +36,11 @@
 				<div class="interior">
 					<table>
 						<tr>
-						<td width="800px">
+						<td class="left_column">
 						<h2>Decimal Converter</h2>
 						<p>An android application that converts numbers in base 10 to numbers in other bases and representations.</p>
 						</td>
-						<td width="160px"><img src="images/android.png" width="100" height="110" align="right"/></td>
+						<td class="right_column"><img src="js/holder.js/260x135/social" align="right"/></td>
 						</tr>
 					</table>					
 				</div>
@@ -61,16 +50,17 @@
 				<div class="interior">
 					<table>
 						<tr>
-						<td width="800px">
+						<td class="left_column">
 						<h2>Decimal Converter</h2>
 						<p>An android application that converts numbers in base 10 to numbers in other bases and representations.</p>
 						</td>
-						<td width="160px"><img src="images/android.png" width="100" height="110" align="right"/></td>
+						<td class="right_column"><img src="js/holder.js/260x135/gray" align="right"/></td>
 						</tr>
 					</table>					
 				</div>
 			</div>
 		</div>
+		<?php include 'footer.php'?>
 	</div>
 </body>
 </html>

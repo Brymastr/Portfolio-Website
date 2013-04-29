@@ -9,6 +9,7 @@ body {
 
 #container {
 	width: 990px;
+	height:100%;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -48,6 +49,7 @@ body {
 #content {
 	float: left;
 	width: 100%;
+	padding-bottom:30px;
 }
 
 .item {
@@ -67,14 +69,15 @@ body {
 }
 
 #about {
-	width: 560px;
+	width: 530px;
 	background-color: white;
 	border-radius: 8px;
 	box-shadow: 8px 8px 8px #888888;
 }
 
 #contact {
-	width: 370px;
+	width: 400px;
+	height: 110px;
 	background-color: white;
 	border-radius: 8px;
 	box-shadow: 8px 8px 8px #888888;
@@ -99,6 +102,38 @@ body {
 	background-color: white;
 	border-radius: 8px;
 	box-shadow: 8px 8px 8px #888888;
+}
+
+footer {
+	position:relative;
+	width:100%;
+    float:left;
+    padding:15px 0;
+    background:#BBBBBB;
+    text-align:center;
+    color:black;
+    padding-left: 3000px;
+    margin-left: -3000px;
+    padding-right: 3000px;
+    margin-right: -3000px;
+}
+
+footer p {
+	margin:0px;
+}
+
+footer a {
+	color:black;
+	text-decoration: none !important;
+}
+
+footer ul {
+	list-style-type: none;
+	margin: 0px 0px 0px -40px; 
+}
+
+footer li {
+    display:inline;
 }
 
 .content_block {
@@ -145,11 +180,17 @@ p {
 }
 
 .contact_left {
-	
+	float:left;
+	width: 80px;
+	padding-left: 5px;
+	padding-right:20px;
+	text-align: right;
 }
 
 .contact_right {
-    align:right;
+	float:left;
+	width: 295px;
+    text-align: left;
 }
 
 
