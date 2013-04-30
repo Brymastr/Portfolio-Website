@@ -4,7 +4,7 @@
 		<!-- CONTENT -->
 		<div id="content">
 			<!-- DORSAY DESIGN -->
-			<div class="item_wide">
+			<div class="wide_item">
 				<div class="interior">
 					<table>
 						<tr>
@@ -18,7 +18,7 @@
 				</div>
 			</div>
 			<!-- DECIMAL CONVERTER -->
-			<div class="item_wide">
+			<div class="wide_item">
 				<div class="interior">
 					<table>
 						<tr>
@@ -32,7 +32,7 @@
 				</div>
 			</div>
 			<!-- DECIMAL CONVERTER -->
-			<div class="item_wide">
+			<div class="wide_item">
 				<div class="interior">
 					<table>
 						<tr>
@@ -46,7 +46,7 @@
 				</div>
 			</div>
 			<!-- DECIMAL CONVERTER -->
-			<div class="item_wide">
+			<div class="wide_item">
 				<div class="interior">
 					<table>
 						<tr>
@@ -61,6 +61,5 @@
 			</div>
 		</div>
 		<?php include 'footer.php'?>
-	</div>
 </body>
 </html>

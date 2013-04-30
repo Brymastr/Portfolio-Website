@@ -14,7 +14,7 @@
 <body>
 	<div id="container">
 		<!-- HEADER -->
-		<div id="title">
+		<div id="header">
 			<div id="title_name">
 				<a href="index.php"><img src="images/title.png" id="index"
 					class="fade_transition" alt="Brycen Dorsay" width="480"

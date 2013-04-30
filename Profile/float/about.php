@@ -2,7 +2,7 @@
 		<?php include 'header.php'; ?>
 		<!-- CONTENT -->
 		<div id="content">
-			<div class="item_plain">
+			<div class="plain_item">
 				<div class="content_block">
 					<h2>ABOUT ME</h2>
 					<img src="images/android.png" class="inner_image" width="240" height="280" align="right"/>

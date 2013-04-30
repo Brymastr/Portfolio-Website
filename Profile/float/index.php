@@ -1,18 +1,18 @@
 		<?php include 'header.php'; ?>
 		<!-- CONTENT -->
 		<div id="content">
-			<div class="item">
+			<div class="item_1">
 				<div id="about" onclick="location.href('about.php')"
 					class="slide_transition">
 					<h3>ABOUT</h3>
 					<p>Hello, my name is Brycen Dorsay and I am into website and mobile
-						application development. I am 19 years old and I am taking
-						Computer Systems Technology at British Columbia Institute of
-						Technology. Welcome to my portfolio page full of my past and
+						application development. I am taking Computer Systems 
+						Technology at British Columbia Institute of Technology. 
+						Welcome to my portfolio page full of my past and
 						future creations.</p>
 				</div>
 			</div>
-			<div class="item">
+			<div class="item_2">
 				<div id="contact" onclick="location.href='#'"
 					class="slide_transition">
 					<h3>CONTACT</h3>
