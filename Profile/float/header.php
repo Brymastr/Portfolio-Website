@@ -11,7 +11,7 @@
 	<script type="text/javascript" src="js/jquery.js"></script>
 	<script type="text/javascript" src="js/actions.js"></script>
 </head>
-<body>
+<body onunload="">
 	<div id="container">
 		<!-- HEADER -->
 		<div id="header">

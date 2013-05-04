@@ -26,7 +26,7 @@
 				</div>
 			</div>
 			<div class="break"></div>
-			<div class="item">
+			<div class="item_3">
 				<div id="projects" onclick="location.href('projects.php')"
 					class="slide_transition">
 					<img src="images/android.png" class="images_tabs" alt="Projects"
@@ -34,16 +34,15 @@
 					<h3>PROJECTS</h3>
 				</div>
 			</div>
-			<div class="item">
+			<div class="item_4">
 				<div id="ideas" onclick="location.href='#'" class="slide_transition">
 					<img src="js/holder.js/240x280/social" class="images_tabs"
 						alt="Ideas" />
 					<h3>IDEAS</h3>
 				</div>
 			</div>
-			<div class="item">
-				<div id="accomp" onclick="location.href='#'"
-					class="slide_transition">
+			<div class="item_5">
+				<div id="accomp" onclick="location.href='#'" class="slide_transition">
 					<img src="js/holder.js/240x280/industrial" class="images_tabs"
 						alt="Accomplishments" />
 					<h3>ACCOMPLISHMENTS</h3>
@@ -51,5 +50,5 @@
 			</div>
 		</div>
 	
-	<!-- FOOTER -->
-	<?php include 'footer.php'?>
+		<!-- FOOTER -->
+		<?php include 'footer.php'?>

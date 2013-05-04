@@ -1,11 +1,10 @@
 @CHARSET "UTF-8";
 
 .wide_item {
-	cursor:pointer;
     position: relative;
 }
 
-.interior {
+div[id^="project_"] {
 	margin:20px 15px 20px 15px;
     width:960px;
     background-color: white;
@@ -19,11 +18,18 @@ table {
 }
 
 .left_column {
+	cursor:pointer;
 	width: 700px;
 }
 
 .right_column {
+	cursor:pointer;
 	width: 260px;
+}
+.right_column:hover, .left_column:hover {
+	outline: none;
+    border-color: #9ecaed;
+    box-shadow: 0 0 10px #9ecaed;
 }
 
 img {
