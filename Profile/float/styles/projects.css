@@ -7,14 +7,15 @@
 div[id^="project_"] {
 	margin:20px 15px 20px 15px;
     width:960px;
-    background-color: white;
-    border-radius: 8px;
-    box-shadow: 8px 8px 8px #888888;
 }
 
 table {
 	width:100%;
 	padding-top:-30px;
+}
+
+td {
+	border-radius: 8px;
 }
 
 .left_column {
@@ -29,7 +30,7 @@ table {
 .right_column:hover, .left_column:hover {
 	outline: none;
     border-color: #9ecaed;
-    box-shadow: 0 0 10px #9ecaed;
+    box-shadow: 0 0 20px #9ecaed;
 }
 
 img {

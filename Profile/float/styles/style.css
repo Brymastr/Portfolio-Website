@@ -90,38 +90,29 @@ div[class^="item"] {
 
 #about {
 	width: 530px;
-	background-color: white;
-	border-radius: 8px;
-	box-shadow: 8px 8px 8px #888888;
 }
 
 #contact {
 	width: 400px;
 	height: 110px;
-	background-color: white;
-	border-radius: 8px;
-	box-shadow: 8px 8px 8px #888888;
 }
 
 #projects {
 	width: 300px;
-	background-color: white;
-	border-radius: 8px;
-	box-shadow: 8px 8px 8px #888888;
 }
 
 #ideas {
 	width: 300px;
-	background-color: white;
-	border-radius: 8px;
-	box-shadow: 8px 8px 8px #888888;
 }
 
 #accomp {
 	width: 300px;
+}
+
+.skin {
 	background-color: white;
-	border-radius: 8px;
-	box-shadow: 8px 8px 8px #888888;
+    border-radius: 8px;
+    box-shadow: 8px 8px 8px #888888;
 }
 
 footer p {
@@ -144,9 +135,6 @@ footer li {
 
 .content_block {
 	width: 960px;
-	background-color:white;
-	border-radius:8px;
-	box-shadow: 8px 8px 8px #888888;
 }
 
 .inner_image {

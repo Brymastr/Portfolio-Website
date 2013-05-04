@@ -6,11 +6,11 @@
 	id="content">
 	<!-- DORSAY DESIGN -->
 	<div class="wide_item">
-		<div id="project_1">
+		<div id="project_1" class="skin">
 			<table>
 				<tr>
-					<td class="left_column" name="dorsay_design"
-						onclick="location.href('dorsay_design.php')">
+					<td id="food_inc" class="left_column slide_transition"
+						onclick="location.href('food_inc.php')">
 						<h2>Food Inc.</h2>
 						<p>A school team project to develop a multi-page website that
 							includes a user login function, commenting system, working
@@ -25,7 +25,7 @@
 	</div>
 	<!-- DECIMAL CONVERTER -->
 	<div class="wide_item">
-		<div id="project_2">
+		<div id="project_2" class="skin">
 			<table>
 				<tr>
 					<td class="left_column">
@@ -42,7 +42,7 @@
 	</div>
 	<!-- DECIMAL CONVERTER -->
 	<div class="wide_item">
-		<div id="project_3">
+		<div id="project_3" class="skin">
 			<table>
 				<tr>
 					<td class="left_column">
@@ -59,7 +59,7 @@
 	</div>
 	<!-- DECIMAL CONVERTER -->
 	<div class="wide_item">
-		<div id="project_4">
+		<div id="project_4" class="skin">
 			<table>
 				<tr>
 					<td class="left_column">
