@@ -1,6 +1,8 @@
 $(document).ready(function() {
 	slideIn('div[class*="item"]', 350);
+	slideIn('.about', 350);
 	slideOut('div[class*="item"]', 350);
+	slideOut('.about', 350);
 	fade_Out("#index", 350);
 	mouseOver('div[class*="item"]', 60);
 

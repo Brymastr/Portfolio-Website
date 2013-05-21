@@ -2,9 +2,8 @@
 <!-- TITLE -->
 <?php include 'header.php'; ?>
 <!-- CONTENT -->
-<div
-	id="content">
-	<!-- DORSAY DESIGN -->
+<div id="content">
+	<!-- FOOD INC -->
 	<div class="wide_item">
 		<div id="project_1" class="skin">
 			<table>
@@ -17,21 +16,22 @@
 							database, and jQuery elements.</p>
 					</td>
 					<td class="right_column"><a href="http://www.ctrl-alt-believe.com"
-						target="_blank"><img src="images/foodinc.png" width="260"
+						target="_blank"><img src="images/foodincsmall.png" width="260"
 							height="135" align="right" /> </a></td>
 				</tr>
 			</table>
 		</div>
 	</div>
-	<!-- DECIMAL CONVERTER -->
+	<!-- AUTONOMOUS ROBOT -->
 	<div class="wide_item">
 		<div id="project_2" class="skin">
 			<table>
 				<tr>
 					<td class="left_column">
-						<h2>Decimal Converter</h2>
-						<p>An android application that converts numbers in base 10 to
-							numbers in other bases and representations.</p>
+						<h2>Autonomous Robot</h2>
+						<p>During a five week project management semester at BCIT my team
+							and I built and programmed a robot to autonomously navigate five
+							courses.</p>
 					</td>
 					<td class="right_column"><img src="js/holder.js/260x135/industrial"
 						align="right" />
@@ -57,15 +57,16 @@
 			</table>
 		</div>
 	</div>
-	<!-- DECIMAL CONVERTER -->
+	<!-- GRANVILLE -->
 	<div class="wide_item">
 		<div id="project_4" class="skin">
 			<table>
 				<tr>
 					<td class="left_column">
-						<h2>Decimal Converter</h2>
-						<p>An android application that converts numbers in base 10 to
-							numbers in other bases and representations.</p>
+						<h2>Granville</h2>
+						<p>My first attempt at building a wordpress theme and my first
+							time using the Thematic theme framework. I thought it turned out
+							quite nicely! I plan on selling it online in the near future.</p>
 					</td>
 					<td class="right_column"><img src="js/holder.js/260x135/gray"
 						align="right" />
@@ -75,6 +76,5 @@
 		</div>
 	</div>
 </div>
+<!-- FOOTER -->
 <?php include 'footer.php'?>
-</body>
-</html>
