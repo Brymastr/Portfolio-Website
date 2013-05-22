@@ -2,7 +2,8 @@
 <!-- TITLE -->
 <?php include 'header.php'; ?>
 <!-- CONTENT -->
-<div id="content">
+<div
+	id="content">
 	<!-- FOOD INC -->
 	<div class="wide_item">
 		<div id="project_1" class="skin">
@@ -65,8 +66,8 @@
 					<td class="left_column">
 						<h2>Granville</h2>
 						<p>My first attempt at building a wordpress theme and my first
-							time using the Thematic theme framework. I thought it turned out
-							quite nicely! I plan on selling it online in the near future.</p>
+							time using the Thematic theme framework. I plan on selling it
+							online in the near future.</p>
 					</td>
 					<td class="right_column"><img src="js/holder.js/260x135/gray"
 						align="right" />

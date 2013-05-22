@@ -15,12 +15,12 @@
 	<div id="container">
 		<!-- HEADER -->
 		<div id="header">
-			<div id="title_name">
+			<div id="title-name">
 				<a href="index.php"><img src="images/title.png" id="index"
 					class="fade_transition" alt="Brycen Dorsay" width="480"
 					height="200"> </a>
 			</div>
-			<div class="title_right">
+			<div class="title-right">
 				<div class="icon"></div>
 			</div>
 		</div>

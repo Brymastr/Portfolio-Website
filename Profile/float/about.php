@@ -4,9 +4,9 @@
 <!-- CONTENT -->
 <div id="content">
 	<div class="about">
-		<div class="content_block skin">
+		<div class="content-block skin">
 			<h2>ABOUT ME</h2>
-			<img src="js/holder.js/240x280/social.png" class="inline_image"
+			<img src="js/holder.js/240x305/social" class="inline-image"
 				alt="me" align="right" />
 			<p>
 				Hey there! Thanks for taking the time to get to know me! I will make
@@ -30,7 +30,7 @@
 				grade 10. It was outdated even at the time but it certainly sufficed
 				to spark my desire to build a career in programming.
 			</p>
-			<img src="js/holder.js/240x280/industrial.png" class="inline_image"
+			<img src="js/holder.js/240x315/industrial" class="inline-image"
 				alt="technologies" align="left" />
 			<p>Other than this portfolio page I build my Wordpress themes using
 				the Thematic framework. I like it because it includes tons of widget
@@ -52,7 +52,7 @@
 				and can afford to do some more experimenting I want to do more
 				android development. I really can't wait to try out the new Android
 				Studio that Google unveiled at I/O 2013.</p>
-			<img src="js/holder.js/240x280/social.png" class="inline_image"
+			<img src="js/holder.js/240x300/social" class="inline-image"
 				alt="computer" align="right" />
 			<p>In 2011 I bought my very own 13" MacBook Pro for way too much
 				money and I've loved it like my child ever since. I really liked the
@@ -74,7 +74,7 @@
 				arrived in the mail. I use it mostly for Reddit now sadly, but
 				occasionally I get to test some small thing I built with the android
 				SDK.</p>
-			<img src="js/holder.js/240x280/industrial.png" class="inline_image"
+			<img src="js/holder.js/240x205/industrial" class="inline-image"
 				alt="atletics" align="left" />
 			<p>I first started playing Soccer, Basketball, Baseball and Box
 				Lacrosse in kindergarten at age 6. Track and field started at age 10
