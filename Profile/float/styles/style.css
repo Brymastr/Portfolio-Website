@@ -139,6 +139,10 @@ div[class^="item"] {
     box-shadow: 8px 8px 8px #888888;
 }
 
+.reveal {
+	display: none;
+}
+
 footer p {
 	margin:0px;
 }

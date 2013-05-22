@@ -3,7 +3,8 @@ $(document).ready(function() {
 	slideIn('.about', 350);
 	slideOut('div[class*="item"]', 350);
 	slideOut('.about', 350);
-	fadeOut("#index", 350);
+	fadeOut('#index', 350);
+	clickFade('#contact', '.reveal', 350);
 	mouseOver('div[class*="item"]', 60);
 
 });
@@ -39,8 +40,14 @@ function fadeOut(id, time) {
 	});
 }
 
-function clickFade(id, time) {
-	$(".click-fade")
+function clickFade(id, reveal, time) {
+	$(".click-fade").click(function(event) {
+		$(id).fadeOut(time, function() {
+			$(reveal).fadeIn(time, function(event) {
+				window.location = 'mailto:dorsay@live.ca?subject=Hello!';
+			});
+		});
+	});
 }
 
 //Bump Item on mouse over //

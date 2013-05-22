@@ -13,8 +13,8 @@
 		</div>
 	</div>
 	<div class="item">
-		<div id="contact" onclick="location.href='mailto:dorsay@live.ca'"
-			class="skin">
+		<div id="contact"
+			class="skin click-fade">
 			<h3>CONTACT</h3>
 			<div class="contact-left">
 				Email:<br>Phone:<br>Address:
@@ -23,6 +23,9 @@
 				dorsay@live.ca<br>1 (250) 937-7361<br>5211 Grimmer Street, Burnaby
 				BC
 			</div>
+		</div>
+		<div class="reveal">
+			<br><h1>THANKS FOR <br>CHATTING WITH ME!</h1>
 		</div>
 	</div>
 	<div class="break"></div>
