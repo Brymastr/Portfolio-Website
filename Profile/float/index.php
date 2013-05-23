@@ -24,7 +24,7 @@
 				BC
 			</div>
 		</div>
-		<div class="reveal">
+		<div class="contact-reveal">
 			<br><h1>THANKS FOR <br>CHATTING WITH ME!</h1>
 		</div>
 	</div>

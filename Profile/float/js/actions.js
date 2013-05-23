@@ -1,10 +1,8 @@
 $(document).ready(function() {
-	slideIn('div[class*="item"]', 350);
-	slideIn('.about', 350);
-	slideOut('div[class*="item"]', 350);
-	slideOut('.about', 350);
-	fadeOut('#index', 350);
-	clickFade('#contact', '.reveal', 350);
+	slideIn('div[class*="item"], .page', 350);
+	slideOut('div[class*="item"], .page', 350);
+	fadeContent(350);
+	clickFade('#contact', '.contact-reveal', 350);
 	mouseOver('div[class*="item"]', 60);
 
 });
@@ -30,7 +28,7 @@ function slideOut(id, time) {
 	});
 }
 
-function fadeOut(id, time) {
+function fadeContent(id, time) {
 	$(".fade-transition").click(function(event) {
 		event.preventDefault();
 		linkLocation = this.id + ".php";
