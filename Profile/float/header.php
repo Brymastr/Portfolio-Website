@@ -4,9 +4,9 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<title>Dorsay Creations</title>
 	<link href="styles/style.css" rel="stylesheet" type="text/css" />
-	<link href="styles/projects.css" rel="stylesheet" type="text/css" />
 	<link href="styles/font-awesome.min.css" rel="stylesheet"
 		type="text/css" />
+	<script src="https://google-code-prettify.googlecode.com/svn/loader/run_prettify.js?lang=css&skin=sons-of-obsidian"></script>
 	<script src="js/holder.js"></script>
 	<script type="text/javascript" src="js/jquery.js"></script>
 	<script type="text/javascript" src="js/actions.js"></script>

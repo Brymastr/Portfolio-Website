@@ -60,3 +60,4 @@
 	</div>
 </div>
 <!-- CONTENT -->
+<?php include 'footer.php'?>
