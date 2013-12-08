@@ -13,7 +13,7 @@ function slideIn(id, time) {
 	$(id).animate({left: "0px"}, time);
 	$(id).animate({left: "20px"}, 100);
 	$(id).animate({left: "0px"}, 200, function() {
-		$("footer").fadeIn(1000);
+		$("#footer").fadeIn(1000);
 
 	});
 }

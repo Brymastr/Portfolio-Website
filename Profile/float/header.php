@@ -16,8 +16,8 @@
 		<!-- HEADER -->
 		<div id="header">
 			<div id="title-name">
-				<a href="index.php"><img src="images/title.png" id="index"
-					class="fade-transition" alt="Brycen Dorsay" width="480"
+				<a href="index.php"><img src="images/title_2.png" id="index"
+					class="fade-transition" alt="Brycen Dorsay" 
 					height="200"> </a>
 			</div>
 			<div class="title-right">

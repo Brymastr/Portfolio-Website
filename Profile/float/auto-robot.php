@@ -16,13 +16,13 @@
 							NXT API</a>. This was a five man team project in which we each
 						had specific roles.
 					</td>
-					<td><img class="img" src="images/robot-1-small.png" alt="robot" />
+					<td><img class="info-img" src="images/robot-1-small.png" alt="robot" />
 					</td>
 				</tr>
 			</table>
 			<table>
 				<tr class="info-row">
-					<td><img class="img" src="images/robot-2-small.png" alt="robot" />
+					<td><img class="info-img" src="images/robot-2-small.png" alt="robot" />
 					</td>
 					<td>The course was aimed at teaching project management so many of
 						our assignments were to create and update a project plan. I
@@ -43,13 +43,13 @@
 						while spinning the pickup arm. This proved much too difficult and
 						unreliable so I chose instead to drive straight off the base
 						without the ramp and go pick up the amulets.</td>
-					<td><img class="img" src="images/table-4-small.png" alt="table 4" />
+					<td><img class="info-img" src="images/table-4-small.png" alt="table 4" />
 					</td>
 				</tr>
 			</table>
 			<table>
 				<tr class="info-row">
-					<td><img class="img" src="images/robot-5-small.png" alt="robot" />
+					<td><img class="info-img" src="images/robot-5-small.png" alt="robot" />
 					</td>
 					<td>For all of these challenges the robot could not be touched
 						until it completed the course. The first challenge was a simple
@@ -60,7 +60,7 @@
 						doors to find the one that opened. The third challenged pitched
 						our robot against three other robots in a sumo wrestle type
 						battle. Challenge five was a continuation of challenge four in
-						that the robot had to carry the amulet from four and manuever
+						that the robot had tos carry the amulet from four and manuever
 						another maze to place the amulet in a basket.</td>
 				</tr>
 			</table>

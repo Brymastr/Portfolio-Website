@@ -31,7 +31,7 @@
 						time but it certainly sufficed to spark my desire to build a
 						career in programming.
 					</td>
-					<td><img src="js/holder.js/240x305/social" alt="me" />
+					<td><img class="info-image" src="images/portrait.png" width="240" alt="me" />
 					</td>
 				</tr>
 			</table>
@@ -40,7 +40,7 @@
 				<tr>
 					<td><img src="js/holder.js/240x320/industrial" alt="technologies" />
 					</td>
-					<td>Other than this portfolio page I build my Wordpress themes
+					<td>Other than this portfolio page I generally build my Wordpress themes
 						using the Thematic framework. I like it because it includes tons
 						of widget areas and it has built in search engine optimization
 						which cuts out hours of work for each new site. Best of all
@@ -88,14 +88,14 @@
 						bought one and rooted it the same day it arrived in the mail. I
 						use it mostly for Reddit now sadly, but occasionally I get to test
 						some small thing I built with the android SDK.</td>
-					<td><img src="js/holder.js/240x300/social" alt="computer" />
+					<td><img class="info-image" src="images/volleyball.png" alt="computer" />
 					</td>
 				</tr>
 			</table>
 
 			<table>
 				<tr>
-					<td><img src="js/holder.js/240x205/industrial" alt="atletics" />
+					<td><img class="info-image" src="images/longj.png" alt="atletics" />
 					</td>
 					<td>I first started playing Soccer, Basketball, Baseball and Box
 						Lacrosse in kindergarten at age 6. Track and field started at age

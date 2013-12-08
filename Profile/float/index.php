@@ -1,4 +1,3 @@
-
 <?php include 'header.php'; ?>
 <!-- CONTENT -->
 <div id="content">
@@ -17,11 +16,10 @@
 			class="skin click-fade">
 			<h3>CONTACT</h3>
 			<div class="contact-left">
-				Email:<br>Phone:<br>Address:
+				Email:<br>Phone:<br>Occupation:
 			</div>
 			<div class="contact-right">
-				dorsay@live.ca<br>1 (250) 937-7361<br>5211 Grimmer Street, Burnaby
-				BC
+				dorsay@live.ca<br>1 (250) 937-7361<br>Student/Website Architect
 			</div>
 		</div>
 		<div class="contact-reveal">
@@ -40,17 +38,25 @@
 	<div class="item">
 		<div id="ideas" class="slide-transition skin"
 			onclick="location.href='#'">
-			<img src="js/holder.js/240x280/social" class="images-tabs"
+			<img src="images/wordpress.png" class="images-tabs"
 				alt="Ideas" />
 			<h3>IDEAS</h3>
 		</div>
 	</div>
 	<div class="item">
-		<div id="accomp" class="slide-transition skin"
-			onclick="location.href='#'">
-			<img src="js/holder.js/240x280/industrial" class="images-tabs"
-				alt="Accomplishments" />
-			<h3>ACCOMPLISHMENTS</h3>
+		<div id="resume" class="skin">
+			<div class="images-tabs-small" >
+				<a href="resume.pdf" class="download-btn" width="280px" height="97px"></a>
+			</div>
+			<h3>RÉSUMÉ</h3>
+		</div>
+	</div>
+	<div class="item">
+		<div id="source" class="skin">
+			<div class="images-tabs-small highlight">
+				<a href="source.zip" class="download-btn" style="display: block;" width="280px" height="97px"></a>
+			</div>
+			<h3>PAGE SOURCE</h3>
 		</div>
 	</div>
 </div>

@@ -17,13 +17,13 @@
 						site the title of best in the program. This assignment was to
 						create a site with dummy content just to showcase layout and
 						functionality</td>
-					<td><img class="img" src="images/foodinc-small.png" alt="foodinc" />
+					<td><img class="info-img" src="images/foodinc-small.png" alt="foodinc" />
 					</td>
 				</tr>
 			</table>
 			<table>
 				<tr class="info-row">
-					<td><img class="img" src="images/inspiration-small.png"
+					<td><img class="info-img" src="images/inspiration-small.png"
 						alt="inspiration" />
 					</td>
 					<td>Part of the assignment was to include a JQuery element in the
@@ -40,13 +40,13 @@
 						JQuery plugin that fit perfectly with our content. As you mouse
 						over a recipe item, a description box pops in from whichever side
 						your mouse entered the div.</td>
-					<td><img class="img" src="images/recipes-small.png" alt="recipes" />
+					<td><img class="info-img" src="images/recipes-small.png" alt="recipes" />
 					</td>
 				</tr>
 			</table>
 			<table>
 				<tr class="info-row">
-					<td><img class="img" src="images/contactus-small.png" alt="foodinc" />
+					<td><img class="info-img" src="images/contactus-small.png" alt="foodinc" />
 					</td>
 					<td>We were required to build a custom, functioning form page and
 						implement JavaScript form validation. Required form fields with
