@@ -1,5 +1,5 @@
 Personal Portfolio v2
-last updated: November 5, 2013
+last updated: January 13th, 2013
 
 This site is not a finished product. I will continue to work on it until I believe it is professional looking enough. All markup was written by me with the exception of jquery.js, holder.js, font-awesome.css and the background gradient that was from an online texture generator.
 

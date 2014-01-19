@@ -51,10 +51,17 @@ function clickFade(id, reveal, time) {
 //Bump Item on mouse over //
 function mouseOver(id, time) {
 	$(id).mouseenter(function(i) {
-		$(this).animate({top: "-8px"}, time);
+		$(this).animate({
+            "top": "-8px",
+            boxShadow: '20px 20px 9px #888888'
+        }, time);
+        
 	});
 	$(id).mouseleave(function(i) {
-		$(this).animate({top: "0"}, time);
+		$(this).animate({
+            "top": "0",
+            boxShadow: '8px 8px 8px #888888'
+        }, time);
 	});
 }
 

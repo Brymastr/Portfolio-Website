@@ -1,8 +1,6 @@
 
 <!-- TITLE -->
 <?php include 'header.php'; ?>
-<!-- CONTENT -->
-<div id="content">
 	<!-- FOOD INC -->
 
 	<div class="wide-item project skin">
@@ -36,12 +34,27 @@
 			</tr>
 		</table>
 	</div>
-	<!-- DECIMAL CONVERTER
+    <!--DECIMAL CONVERTER-->
     <div class="wide-item project skin">
         <table class="project-table">
             <tr>
                 <td id="decimal-conv" class="left-column slide-transition">
                     <h2>Decimal Converter</h2>
+                    <p>An android application that converts numbers in base 10 to
+                        numbers in other bases and representations.</p>
+                </td>
+                <td class="right-column"><img src="js/holder.js/260x135/social"
+                    align="middle" />
+                </td>
+            </tr>
+        </table>
+    </div>
+    <!--COUNTER BUTTON-->
+    <div class="wide-item project skin">
+        <table class="project-table">
+            <tr>
+                <td id="counter-button" class="left-column slide-transition">
+                    <h2>Counter Button</h2>
                     <p>An android application that converts numbers in base 10 to
                         numbers in other bases and representations.</p>
                 </td>
@@ -68,6 +81,5 @@
             </tr>
         </table>
     </div>-->
-</div>
 <!-- FOOTER -->
 <?php include 'footer.php'?>

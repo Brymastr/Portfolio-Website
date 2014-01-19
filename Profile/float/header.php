@@ -9,6 +9,7 @@
 	<script src="https://google-code-prettify.googlecode.com/svn/loader/run_prettify.js?lang=css&skin=sons-of-obsidian"></script>
 	<script src="js/holder.js"></script>
 	<script type="text/javascript" src="js/jquery.js"></script>
+    <script type="text/javascript" src="js/jquery.animate-shadow.js"></script>
 	<script type="text/javascript" src="js/actions.js"></script>
 </head>
 <body onunload="">
@@ -24,3 +25,4 @@
 				<div class="icon"></div>
 			</div>
 		</div>
+        <div id="content">
